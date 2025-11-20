@@ -1,14 +1,10 @@
 # OzoraNagasaki.github.io
 My GitHub page
-# 👋 Hi, I'm Ozora Nagasaki  
-**CIT / Cybersecurity Student | Northern Kentucky University**  
-**Aspiring Security Analyst & Network Professional**
+# Hey there, I'm Ozora Nagasaki  
+**CIT/System Administration Student | Northern Kentucky University**  
+Welcome to my portfolio! This page shows my experience and what I am capable of. I created this portfolio to showcase what I have done and well, its for an assignment.
 
-Welcome to my portfolio! This page highlights my academic projects, technical skills, and hands-on work from my classes, labs, and internship experience. I created this portfolio to showcase what I’ve built, what I’m learning, and the kind of work I want to continue doing in the IT and cybersecurity field.
-
----
-
-## 📌 About Me
+ About Me
 I'm a student at **Northern Kentucky University (NKU)** studying computing and cybersecurity.  
 My interests include:
 
@@ -66,21 +62,15 @@ I'm passionate about hands-on learning and solving real-world technical problems
 - Flight delay prediction modeling  
 - Tableau data visualization  
 - Excel analytics, regression, and forecasting  
+---
+ Internship Content  
 
 ---
+ Contact Information
+ School E-Mail:
+**Nagasakio1@mymail.nku.edu**  
+Personal E-Mail:
+**Nagasakio1@mymail.nku.edu** 
+Phone Number:
+859-445-2841
 
-## 🧑‍💼 Internship Content  
-(Will be added later — placeholder per assignment requirements.)  
-**[Internship Content Placeholder]**
-
----
-
-## 📬 Contact
-Feel free to reach out!
-
-📧 **Nagasakio1@mymail.nku.edu**  
-🔗 **https://OzoraNagasaki.github.io**
-
----
-
-Thanks for visiting my portfolio!
