@@ -13,9 +13,10 @@ My interests include:
 - Risk assessment & security frameworks  
 - Databases and system administration  
 I love hands on learning tremendously.
- Resume
-**[]**
----
+##  Resume
+You can download my full resume here:
+ [**Resume**](Resume%202025.pdf)
+
 
 ## 🛠️ Skills
 - **Networking:** IPv4/IPv6, VLANs, OSPF, ACLs, DNS, DHCP, firewalls  
