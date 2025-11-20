@@ -25,40 +25,33 @@ You can download my full resume here:
 - **Programming:** Python, SQL, PL/SQL, Lua (Roblox), Bash  
 - **Hardware:** Raspberry Pi, sensors, relays, electronics  
 - **OS Skills:** Windows Server, Ubuntu, Linux administration  
-
----
-
-## 📚 Academic Projects
-
-
-### 🔹 Network & Security Labs (CIT / Cybersecurity)
+## Academic Projects
+###  Network & Security Labs (CIT / Cybersecurity)
 - GNS3 multi-router topologies  
 - VLAN configuration with trunking  
 - Firewall rules + ACLs  
 - OSPF neighbor adjacency troubleshooting  
 - Windows Server: AD, DNS, and Group Policy labs  
 - Linux system administration tasks (Apache, SSH, permissions)
-
-### 🔹 Raspberry Pi Hardware Projects
+### Raspberry Pi Hardware Projects
 - Motion sensor alarm system  
 - Door sensor with video notification  
 - LED circuits + GPIOZero control  
 - Relay-controlled automation  
 - Distance sensor using HC-SR04
-
-### 🔹 SQL & PL/SQL Coursework
+###  SQL & PL/SQL Coursework
 - Stored procedures, functions, and triggers  
 - Risk analysis database tables  
 - Employee salary update scripts  
 - Custom business logic procedures  
-
-### 🔹 Data/Business Analytics Work (BIS)
+###  Data/Business Analytics Work (BIS)
 - Flight delay prediction modeling  
 - Tableau data visualization  
 - Excel analytics, regression, and forecasting  
 ---
  Internship Content  
-
+ September 2025-December 2025
+ Worked as a cybersecrutiy administrator for Takatsu Co. on Mount Zion Rd.
 ---
  Contact Information
  School E-Mail:
