@@ -3,11 +3,9 @@ My GitHub page
 # Hey there, I'm Ozora Nagasaki  
 **CIT/System Administration Student | Northern Kentucky University**  
 Welcome to my portfolio! This page shows my experience and what I am capable of. I created this portfolio to showcase what I have done and well, its for an assignment.
-
  About Me
 I'm a student at **Northern Kentucky University (NKU)** studying computing and cybersecurity.  
 My interests include:
-
 - Cybersecurity & network defense  
 - Python automation   
 - Risk assessment & security frameworks  
@@ -16,9 +14,7 @@ I love hands on learning tremendously.
 ##  Resume
 You can download my full resume here:
  [**Resume**](Resume%202025.pdf)
-
-
-## 🛠️ Skills
+## Learned Skills
 - **Networking:** IPv4/IPv6, VLANs, OSPF, ACLs, DNS, DHCP, firewalls  
 - **Cybersecurity:** NIST frameworks, risk assessments, SimpleRisk  
 - **Tools:** GNS3, Packet Tracer, VS Code, GitHub, Linux CLI  
@@ -51,7 +47,9 @@ You can download my full resume here:
 ---
  Internship Content  
  September 2025-December 2025
- Worked as a cybersecrutiy administrator for Takatsu Co. on Mount Zion Rd.
+ - Worked as a cybersecrutiy administrator for Takatsu Co. on Mount Zion Rd.
+ - Also assisted in assembly for contracts
+ - Took a test OSHA and successfully passed.
 ---
  Contact Information
  School E-Mail:
