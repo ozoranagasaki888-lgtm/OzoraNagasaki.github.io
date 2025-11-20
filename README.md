@@ -9,20 +9,12 @@ I'm a student at **Northern Kentucky University (NKU)** studying computing and c
 My interests include:
 
 - Cybersecurity & network defense  
-- Python scripting & automation  
-- GNS3 networking labs  
+- Python automation   
 - Risk assessment & security frameworks  
-- Hardware projects (Raspberry Pi, sensors, relays, alarms, circuits)  
-- SQL, databases, and system administration  
-
-I'm passionate about hands-on learning and solving real-world technical problems.
-
----
-
-## 📄 Resume
-👉 *(You can upload your resume PDF into this repo and link it here later)*  
-**[Resume PDF Coming Soon]**
-
+- Databases and system administration  
+I love hands on learning tremendously.
+ Resume
+**[]**
 ---
 
 ## 🛠️ Skills
@@ -36,6 +28,7 @@ I'm passionate about hands-on learning and solving real-world technical problems
 ---
 
 ## 📚 Academic Projects
+
 
 ### 🔹 Network & Security Labs (CIT / Cybersecurity)
 - GNS3 multi-router topologies  
